@@ -38,3 +38,19 @@ First, clone the repository to your local machine:
 ```bash
 git clone https://github.com/yourusername/DSA-Repository.git
 cd DSA-Repository
+```
+### 2. Browse the Repository
+The data_structures/ folder contains implementations for various data structures like arrays, linked lists, and trees.
+The algorithms/ folder contains algorithm implementations and problem-solving strategies.
+The problems/ folder includes solutions for real-world problems and competitive programming challenges.
+Test files can be found in the tests/ folder to validate correctness.
+
+### Repository Structure
+DSA-Repository/
+├── README.md               # Project overview
+├── data_structures/        # Implementations of various data structures
+├── algorithms/             # Implementations of algorithms
+├── problems/               # Problem-specific solutions
+├── resources/              # Additional resources and study materials
+├── tests/                  # Unit tests for DSA code
+└── .gitignore              # Git ignore configuration
