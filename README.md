@@ -46,7 +46,7 @@ The problems/ folder includes solutions for real-world problems and competitive 
 Test files can be found in the tests/ folder to validate correctness.
 
 ### Repository Structure
-DSA-Repository/
+```DSA-Repository/
 ├── README.md               # Project overview
 ├── data_structures/        # Implementations of various data structures
 ├── algorithms/             # Implementations of algorithms
