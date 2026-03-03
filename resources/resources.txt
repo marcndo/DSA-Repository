@@ -1,0 +1,4 @@
+1. Data Structures and Algorithms in Python by Michael T. Goodrich,
+Department of Computer Science University of California, Irvine
+2. Introduction to Algorithms by Thomas H. Cormen.
+3. https://leetcode.com/problemset/
