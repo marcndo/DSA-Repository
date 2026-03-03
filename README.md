@@ -30,7 +30,7 @@ This repository is a comprehensive collection of **Data Structures** and **Algor
 
 ## **Getting Started**
 
-To get started with the repository, follow these steps:
+To experiment the different data structures and algorithms in this repository, follow these steps:
 
 ### 1. Clone the Repository
 First, clone the repository to your local machine:
