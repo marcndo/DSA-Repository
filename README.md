@@ -10,10 +10,7 @@ Welcome to my **Data Structures and Algorithms** repository! This repository con
 2. [Getting Started](#getting-started)
 3. [Repository Structure](#repository-structure)
 4. [Algorithms and Data Structures](#algorithms-and-data-structures)
-5. [How to Contribute](#how-to-contribute)
-6. [Resources](#resources)
-7. [License](#license)
-
+5. [Resources](#resources)
 ---
 
 ## **Overview**
